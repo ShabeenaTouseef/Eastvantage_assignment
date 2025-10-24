@@ -5,8 +5,6 @@ Assignment includes SQL-based approach – Uses SQL query aggregation.  Pandas-b
 - `sql_solution.py` - SQL-based aggregation
 - `pandas_solution.py` - Pandas-based aggregation
 - `requirements.txt` - Python dependencies
-- `Dockerfile` - build container image
-- `docker-compose.yml` - convenience compose file
 
 
 ## Setup (local)
